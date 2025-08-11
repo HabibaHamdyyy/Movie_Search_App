@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie Search App
 
 A simple React application to search for movies using the OMDb API.  
