@@ -26,7 +26,7 @@ The app allows users to search for movies by title, view details, and add/remove
 
 ### 1. Clone the repository
 
-git clone https://github.com/YOUR_USERNAME/movie-search-app.git
+git clone https://github.com/HabibaHamdyyy/Movie_Search_App.git
 
 ### 2. Navigate to the project folder
 
